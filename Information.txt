@@ -1,0 +1,35 @@
+#  !
+ 					whats is this and use of it?
+⁬
+#Use of JS File
+					JS file is use for all kind of logic of project
+
+#div.board 
+					this is use for moving snakes it is use as background
+
+*{}
+					use for universal style
+
+vh
+					viewport height means device height
+
+vw
+					viewport width means device width
+
+background-repeat: no-repeat
+					if image in small size then use this to remove repeat use
+
+linear-gradient(color1, color2)
+					it is use, if you want to use two color anywhere in css style
+
+alt + shift
+					multi cursor property of VS which is use to slect and type same word in multiple line in only one go
+
+/**********************************************************************************************************************************************************/
+If there is ever more than one element with this class name, this will just give you the first element.
+
+	===> var variableName = document.getElementsByClassName("className")[0];
+
+If there is not a class but there only id then theres nothing to do just call id by variable name
+
+/**********************************************************************************************************************************************************/
