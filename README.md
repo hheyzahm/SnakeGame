@@ -1,4 +1,4 @@
-This is snake game prely made in java script html, css
+This is snake game purely made in java script html, css
 
 
 
